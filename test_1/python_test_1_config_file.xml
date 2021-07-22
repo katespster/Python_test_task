@@ -1,0 +1,7 @@
+<config>
+    <file>
+        <source_path>/var/log</source_path>
+        <destination_path>/opt</destination_path>
+        <file_name>file1.txt</file_name>
+    </file>
+</config>

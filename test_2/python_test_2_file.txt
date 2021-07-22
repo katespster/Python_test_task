@@ -1,0 +1,6 @@
+nature.jpg md5 a2729e0eaeb7e21ba30505534792bbcc
+text.txt md5 746308829575e17c3331bbcb00c0898b
+pdf-test.pdf sha1 5b03ccec77b416805d6d8e270d33942aaedcc6dd
+testFileNotFound.txt sha256 5b03ccec77b416805d6d8e270d33942aaedcc6dd
+testWrongSum.txt md5 f072910638370d5ceae97ebf4a2cf06
+AnotherOneFile.txt sha256 66a045b452102c59d840ec097d59d9467e13a3f34f6494e539ffd32c1bb35f18
